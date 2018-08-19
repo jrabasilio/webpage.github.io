@@ -140,6 +140,10 @@ footer h4 a:hover{
 		padding-top: 5%;
 		max-width: 50%;
 	}
+
+	#buttonTop{
+		right: 10px;
+	}
 }
 
 /*--- iOS Landing Page Fix
