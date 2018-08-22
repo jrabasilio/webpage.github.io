@@ -149,6 +149,11 @@ footer h4 a:hover{
 		font-weight: bold;
 	}
 
+	.paddingTop{
+		padding-bottom: 30px;
+		padding-top: 0px;
+	}
+
 	.fa{
 		font-size: 20px;
 		padding: 10px;
